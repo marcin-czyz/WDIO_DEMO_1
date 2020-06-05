@@ -1,5 +1,5 @@
-class Vote {
+class VotePage {
 
 }
 
-module.exports = new Vote();
+module.exports = new VotePage();

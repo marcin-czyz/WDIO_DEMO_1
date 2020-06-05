@@ -1,5 +1,5 @@
-class Intro {
+class IntroPage {
 
 }
 
-module.exports = new Intro();
+module.exports = new IntroPage();

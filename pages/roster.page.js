@@ -1,5 +1,5 @@
-class Roster {
+class RosterPage {
 
 }
 
-module.exports = new Roster();
+module.exports = new RosterPage();
